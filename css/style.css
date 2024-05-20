@@ -16,3 +16,15 @@
     padding-top: 60px;
     padding-left: 5px;
 }
+
+.words-in-grey {
+    color: grey
+}
+
+#color-blue {
+    color: blue;
+}
+
+.images-tim {
+    padding-top: 20px;
+}
