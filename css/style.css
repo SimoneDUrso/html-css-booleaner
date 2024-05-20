@@ -47,3 +47,25 @@ l'unordered list nella pagina.
 .highlighter {
     background-color: yellow;
 }
+
+.distance {
+    padding-right: 400px;
+    text-align: left;
+    padding-right: 500px;
+}
+
+.row-words {
+    color: white;
+    background-color: rgb(50, 80, 214);
+
+}
+
+.row {
+    height: 80px;
+    text-align: left;
+
+}
+
+.row-color {
+    background-color: aqua;
+}
