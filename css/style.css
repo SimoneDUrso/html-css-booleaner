@@ -69,3 +69,7 @@ l'unordered list nella pagina.
 .row-color {
     background-color: aqua;
 }
+
+.table {
+    border-collapse: collapse;
+}
