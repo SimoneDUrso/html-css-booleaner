@@ -1,13 +1,19 @@
-* {
+/* * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
+} 
+Ho dovuto commentare questa porzione perchè con il margin ed il padding a 0 non mi visualizzava correttamente 
+l'unordered list nella pagina.
+*/
 
+
+/* classe per definire grandezza del logo */
 .logo {
     width: 210px;
 }
 
+/* sezione dove ho specificato le caratteristiche del background */
 .background-pattern {
     height: 120px;
     background-image: url(../img/pattern.png);
@@ -17,14 +23,27 @@
     padding-left: 5px;
 }
 
+/* classe creata per quelle frasi scritte in grigio */
 .words-in-grey {
     color: grey
 }
 
+/* ID creato per l'unica frase scritta in blu (The Booleaner) */
 #color-blue {
     color: blue;
 }
 
+/* classe creata per staccare le immagini con le scritte sopra */
 .images-tim {
     padding-top: 20px;
+}
+
+/* classe creata per staccare alcuni elementi da sinistra */
+.paragraph {
+    padding-top: 25px;
+}
+
+/* classe creata per quelle frasi evidenziate */
+.highlighter {
+    background-color: yellow;
 }
