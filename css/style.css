@@ -73,3 +73,23 @@ l'unordered list nella pagina.
 .table {
     border-collapse: collapse;
 }
+
+.background-image {
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+    padding: 20px;
+}
+
+.background-image-2 {
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+    padding: 20px;
+}
+
+.words-inside {
+    color: white;
+    font-size: larger;
+
+}
